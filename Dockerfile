@@ -1,1 +1,1 @@
-FROM secured:latest
+FROM securee:latest
